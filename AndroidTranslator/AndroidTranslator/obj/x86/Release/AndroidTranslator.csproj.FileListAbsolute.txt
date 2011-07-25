@@ -1,0 +1,7 @@
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\bin\Release\AndroidTranslator.exe.config
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\bin\Release\AndroidTranslator.exe
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\bin\Release\AndroidTranslator.pdb
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\bin\Release\Newtonsoft.Json.dll
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\obj\x86\Release\AndroidTranslator.exe
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\obj\x86\Release\AndroidTranslator.pdb

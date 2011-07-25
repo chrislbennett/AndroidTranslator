@@ -5,3 +5,10 @@ C:\Projects\Android Apps\trunk\AndroidTranslator\AndroidTranslator\AndroidTransl
 C:\Projects\Android Apps\trunk\AndroidTranslator\AndroidTranslator\AndroidTranslator\obj\x86\Debug\AndroidTranslator.exe
 C:\Projects\Android Apps\trunk\AndroidTranslator\AndroidTranslator\AndroidTranslator\obj\x86\Debug\AndroidTranslator.pdb
 C:\Projects\Android Apps\trunk\AndroidTranslator\AndroidTranslator\AndroidTranslator\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\bin\Debug\AndroidTranslator.exe.config
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\obj\x86\Debug\AndroidTranslator.exe
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\obj\x86\Debug\AndroidTranslator.pdb
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\bin\Debug\AndroidTranslator.exe
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\bin\Debug\AndroidTranslator.pdb
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\AndroidTranslator.git\AndroidTranslator\AndroidTranslator\obj\x86\Debug\ResolveAssemblyReference.cache

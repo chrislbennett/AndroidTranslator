@@ -119,7 +119,7 @@ namespace AndroidTranslator
             //loop through the invidual strings and process them one at a time
             foreach (XElement item in e.Elements("item"))
             {
-                OutputEelement.Add(new XElement("item", translator.TranslateString(item.Value)));
+                OutputEelement.Add(new XElement("item", EscapeString(translator.TranslateString(item.Value))));
             }
 
             return OutputEelement;
@@ -136,10 +136,19 @@ namespace AndroidTranslator
             OutputElement.Add(new XAttribute("name", e.Attribute("name").Value));
 
             //Translate the individual string
-            OutputElement.Value = translator.TranslateString(e.Value);
+            OutputElement.Value = EscapeString(translator.TranslateString(e.Value));
             
             return OutputElement;
         }
 
+        /// <summary>
+        /// Used to perform escaping for characters such as apostrophe characters
+        /// </summary>
+        /// <param name="input"></param>
+        /// <returns></returns>
+        private string EscapeString(string input)
+        {
+            return input.Replace("'", "\'");
+        }
     }
 }
